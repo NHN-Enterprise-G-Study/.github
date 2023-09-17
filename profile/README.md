@@ -4,7 +4,7 @@
 
 ---
 
-<img width="458" alt="image" src="../profile/img.png">
+<img width="458" alt="image" src="../img/book1.png">
 
 ## 진행기간
 
