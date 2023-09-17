@@ -4,7 +4,7 @@
 
 ---
 
-<img width="458" alt="image" src="../img/book1.png">
+<img width="458" alt="image" src="https://github.com/NHN-Enterprise-G-Study/.github/blob/main/img/book1.png">
 
 ## 진행기간
 
