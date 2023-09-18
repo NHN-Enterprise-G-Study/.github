@@ -18,7 +18,7 @@
 ### 👩‍👩‍👧‍👦인원 : 6
 | 이름          | username                                      |
 |-------------|-----------------------------------------------|
-| 박지현 (스터디 장) | [yusul](https://github.com/yusulme)           |
+| 박지현         | [yusul](https://github.com/yusulme)           |
 | 김민수         | [Minsu Kim](https://github.com/oct-sky-out) |
 | 김보민         | [김보민](https://github.com/qnt012)              |
 | 김세미         | [김세미](https://github.com/SemiKimm)            |
